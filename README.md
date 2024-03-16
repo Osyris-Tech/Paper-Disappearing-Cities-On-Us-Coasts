@@ -30,4 +30,4 @@ Access core analysis methods from to the paper
 
 `analysis.wavelet_based_insar_analysis(interferograms)`\
 `analysis.generate_insar_los_displacements(sar_frames)`\
-`analysis.generate_vlm_rate_map(los_velocities, gnss_datasets)`\
+`analysis.generate_vlm_rate_map(los_velocities, gnss_datasets)`
