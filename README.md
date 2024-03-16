@@ -25,7 +25,7 @@ Automatically run the full analysis on the available datasets and reproduce the 
 
 `analysis.run()`
 
-### Step 1: Mix and match      
+### Mix and match      
 Access core analysis methods from to the paper
 
 `analysis.wavelet_based_insar_analysis(interferograms)`\
