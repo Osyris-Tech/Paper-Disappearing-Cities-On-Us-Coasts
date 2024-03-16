@@ -1,6 +1,6 @@
 # Nature - Disappearing Cities On US Coasts
 
-This repository contains the Python code and instructions necessary to replicate the analysis presented in the Disappearing cities on US coasts paper using the Osyris Replicate python package. The analysis focuses on the combined effects of projected sea-level rise and coastal land subsidence on future flooding risks in major US cities.
+This repository contains the Python code and instructions necessary to replicate the analysis presented in the "Disappearing cities on US coasts" paper using the Osyris Replicate python package. The analysis focuses on the combined effects of projected sea-level rise and coastal land subsidence on future flooding risks in major US cities.
 
 ## Steps to Replicate the Analysis
 
